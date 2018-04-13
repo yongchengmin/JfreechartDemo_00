@@ -11,6 +11,6 @@ public class MyFreeChartMainTow {
 	    frame.add(new MyFreeChart001().getChartPanel());        
 	    frame.add(new MyFreeChart002().getChartPanel());  
 	    frame.setBounds(50, 50, 800, 600);  
-	    frame.setVisible(true); 
+	    frame.setVisible(true);
 	}
 }
